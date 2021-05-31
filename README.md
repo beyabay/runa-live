@@ -1,3 +1,5 @@
-# chiya.dev
+# runa.live
 
-Source code of [chiya.dev](https://chiya.dev) website for [@chiyadev](https://github.com/chiyadev).
+Source code of [runa.live](https://runa.live) website
+
+[Original Creator](https://chiya.dev)
