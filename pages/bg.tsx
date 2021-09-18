@@ -5,7 +5,7 @@ import ParallaxBackground from "../components/ParallaxBackground";
 
 const Home = () => {
   return (
-    <Layout title="runa.live" description="runa.live by Runabox#0001">
+    <Layout title="beyabay" description="thighs enthusiast & genshin impact addict">
       <chakra.div position="relative" h="100vh" overflow="hidden">
         <chakra.div pointerEvents="none">
           <ParallaxBackground noChar />

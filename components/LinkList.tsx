@@ -15,11 +15,11 @@ const LinkList = () => {
       justify="flex-end"
       transition="all 0.15s ease-out"
     >
-      <IconLink icon={FaGithub} name="GitHub" href="https://github.com/Runabox" />
-      <IconLink icon={FaTwitter} name="Twitter" href="https://twitter.com/Runabox1" />
-      <IconLink icon={FaTwitch} name="Twitch" href="https://twitch.tv/Runabox" />
-      <IconLink icon={FaDiscord} name="Runabox#0001" href="https://discord.gg/SuMenydzg5" />
-      <IconLink icon={FaEnvelope} name="Email" href="mailto:runa@runa.live" />
+      <IconLink icon={FaGithub} name="GitHub" href="https://github.com/beyabay" />
+      <IconLink icon={FaTwitter} name="Twitter" href="https://twitter.com/imbeybey" />
+      <IconLink icon={FaTwitch} name="Twitch" href="https://www.twitch.tv/imbeybey" />
+      <IconLink icon={FaDiscord} name="bey#0001" href="https://discord.gg/BrqUMBuX8J" />
+      <IconLink icon={FaEnvelope} name="imaging using email kekw" href="https://discord.gg/BrqUMBuX8J" />
     </Wrap>
   );
 };
